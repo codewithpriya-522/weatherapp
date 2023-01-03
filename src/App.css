@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+
+.weatherResultBox
+{
+  margin: auto;
+  width: 500px;
+  height: 300px;
+}
+
+.weatherIcon{
+  margin-top: 2rem;
+  width: 100px;
+  height: 100px;
+}
+.weatherCityName{
+  font-size: 35px;
+}
+.weatherTemp{
+  font-size: 55px;
+  font-weight:700 ;
+}
